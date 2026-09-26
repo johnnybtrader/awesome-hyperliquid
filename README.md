@@ -32,6 +32,7 @@
 - [perp.wiki](https://perp.wiki) - Hyperliquid ecosystem directory and live market data: funding rates, OI, volume, token listings, and protocol comparisons
 - [OpenChainBench](https://openchainbench.com/benchmarks/hyperliquid-frontends) - Live builder revenue leaderboard for all Hyperliquid frontends (104+ tracked) and HIP-3 deployers. Onchain-verified, open methodology, CC BY 4.0 data. JSON API + MCP server.
 - [VaultVision](https://vaultvision.tech/vaults/scanner) - Hyperliquid vault scanner with live risk-adjusted rankings, TVL, max drawdown, deposit status, entry quality, alerts, and crawlable vault detail pages.
+- [Roya Trading Prop Firm Registry](https://roya-trading.com/api/registry.json) - Dated registry of crypto prop firms incl. the Hyperliquid-native ones (Propr, Hypernova, HyperPNL): DNS/HTTP status, public Trust Score, 54 payouts reconciled on-chain with tx hashes. JSON + CSV, CC-BY-4.0, regenerated at every deploy.
 
 
 ### X/Twitter Accounts
