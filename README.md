@@ -46,6 +46,7 @@
 ### APIs & Tools
 
 -[hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib) - most widely adopted library for smart contracts on Hyperliquid.
+- [TickFoundry](https://tickfoundry.com/hyperliquid-historical-data) - Historical order books and trades for every Hyperliquid perp, spot pair and HIP-3 market since January 2025, rebuilt block by block from the chain's order events: top of book and the order book on every change (10 or 25 levels by plan), every fill with wallet, fee and PnL. Parquet per coin per day; paid, with a free sample day.
 
 
 - [Hyperliquid REST API Wrapper](https://hyperliquid-api-deploy.vercel.app) — Free REST API wrapper for Hyperliquid market data. Simple GET endpoints for 275+ perp prices, L2 orderbooks, OHLCV candles, funding rates, and account data. No API key needed for free tier (100 req/day). Docs + live demo at the link.
